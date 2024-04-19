@@ -1,0 +1,10 @@
+{
+    "name": "eggzin/atividade12-04",
+    "autoload": {
+        "psr-4": {
+            "Mensageiro\\": "Mensageiro/",
+            "Personagem\\": "Personagem/"
+        }
+    },
+    "require": {}
+}
